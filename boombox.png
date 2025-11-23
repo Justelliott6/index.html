@@ -50,7 +50,7 @@
 <input id="playlist" placeholder="https://open.spotify.com/playlist/xxxx" />
 
 <div id="skin-container">
-    <img src="boombox.png" alt="Boombox Skin" />
+    <img src="boombox.png" alt="Boom Box Skin" />
     <div id="embed-box"></div>
 </div>
 
